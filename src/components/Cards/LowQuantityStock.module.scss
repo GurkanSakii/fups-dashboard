@@ -1,0 +1,76 @@
+.lowQuantity {
+  padding: 1rem;
+  margin-bottom: 1em;
+  border-radius: 8px;
+  background-color: #fff;
+  max-height: 310px;
+  box-sizing: border-box;
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__link {
+    text-decoration: none;
+    color: #007bff;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  &__item {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 0;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &__image {
+    width: 60px;
+    height: 70px;
+    object-fit: contain;
+    margin-right: 1rem;
+  }
+
+  &__details {
+    flex-grow: 1;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+
+  &__name {
+    font-weight: bold;
+    margin: 0 0 0.25rem;
+  }
+
+  &__quantity {
+    font-size: 0.9rem;
+    color: #667085;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  &__badge {
+    background-color: #feeceb;
+    color: #aa3028;
+    padding: 0.3rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+}
