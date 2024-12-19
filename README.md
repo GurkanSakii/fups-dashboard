@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ## Deploy on Vercel
 
-[https://fups-dashboard.vercel.app](https://fups-dashboard-case.vercel.app/)
+[https://fups-dashboard-case.vercel.app](https://fups-dashboard-case.vercel.app/)
