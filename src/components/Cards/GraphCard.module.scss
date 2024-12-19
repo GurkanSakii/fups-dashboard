@@ -5,7 +5,26 @@
   margin-bottom: 1em;
 
   &__title {
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     text-align: left;
+
+    span {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      padding: 0em 0.8em;
+      border: 1px solid #d0d3d9;
+      border-radius: 4px;
+      cursor: pointer;
+
+      p {
+        margin-left: 0.5em;
+      }
+    }
   }
 
   &__chart {

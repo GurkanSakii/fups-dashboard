@@ -1,0 +1,902 @@
+[
+  {
+    "name": "Ariel",
+    "price": "₹525",
+    "quantity": "31 Packets",
+    "threshold": "6 Packets",
+    "expiry": "2/5/23",
+    "status": "Out of stock",
+    "id": 1
+  },
+  {
+    "name": "Maggi",
+    "price": "₹241",
+    "quantity": "36 Packets",
+    "threshold": "5 Packets",
+    "expiry": "17/5/23",
+    "status": "In-stock",
+    "id": 2
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹346",
+    "quantity": "25 Packets",
+    "threshold": "10 Packets",
+    "expiry": "31/1/23",
+    "status": "In-stock",
+    "id": 3
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹515",
+    "quantity": "8 Packets",
+    "threshold": "15 Packets",
+    "expiry": "5/12/23",
+    "status": "Out of stock",
+    "id": 4
+  },
+  {
+    "name": "Bru",
+    "price": "₹670",
+    "quantity": "25 Packets",
+    "threshold": "7 Packets",
+    "expiry": "29/8/23",
+    "status": "Low stock",
+    "id": 5
+  },
+  {
+    "name": "Harpic",
+    "price": "₹333",
+    "quantity": "48 Packets",
+    "threshold": "10 Packets",
+    "expiry": "10/6/23",
+    "status": "In-stock",
+    "id": 6
+  },
+  {
+    "name": "Harpic",
+    "price": "₹677",
+    "quantity": "20 Packets",
+    "threshold": "9 Packets",
+    "expiry": "19/3/23",
+    "status": "Low stock",
+    "id": 7
+  },
+  {
+    "name": "Maggi",
+    "price": "₹293",
+    "quantity": "20 Packets",
+    "threshold": "7 Packets",
+    "expiry": "4/11/23",
+    "status": "In-stock",
+    "id": 8
+  },
+  {
+    "name": "Ariel",
+    "price": "₹716",
+    "quantity": "48 Packets",
+    "threshold": "9 Packets",
+    "expiry": "2/10/23",
+    "status": "Low stock",
+    "id": 9
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹501",
+    "quantity": "43 Packets",
+    "threshold": "15 Packets",
+    "expiry": "27/2/23",
+    "status": "Out of stock",
+    "id": 10
+  },
+  {
+    "name": "Maggi",
+    "price": "₹531",
+    "quantity": "25 Packets",
+    "threshold": "9 Packets",
+    "expiry": "12/8/23",
+    "status": "In-stock",
+    "id": 11
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹353",
+    "quantity": "7 Packets",
+    "threshold": "9 Packets",
+    "expiry": "15/4/23",
+    "status": "Low stock",
+    "id": 12
+  },
+  {
+    "name": "Ariel",
+    "price": "₹443",
+    "quantity": "34 Packets",
+    "threshold": "12 Packets",
+    "expiry": "29/7/23",
+    "status": "Out of stock",
+    "id": 13
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹252",
+    "quantity": "12 Packets",
+    "threshold": "9 Packets",
+    "expiry": "29/9/23",
+    "status": "Low stock",
+    "id": 14
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹644",
+    "quantity": "17 Packets",
+    "threshold": "10 Packets",
+    "expiry": "2/5/23",
+    "status": "Out of stock",
+    "id": 15
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹321",
+    "quantity": "31 Packets",
+    "threshold": "9 Packets",
+    "expiry": "16/4/23",
+    "status": "Low stock",
+    "id": 16
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹574",
+    "quantity": "36 Packets",
+    "threshold": "9 Packets",
+    "expiry": "21/2/23",
+    "status": "Out of stock",
+    "id": 17
+  },
+  {
+    "name": "Harpic",
+    "price": "₹436",
+    "quantity": "15 Packets",
+    "threshold": "6 Packets",
+    "expiry": "14/8/23",
+    "status": "Out of stock",
+    "id": 18
+  },
+  {
+    "name": "Ariel",
+    "price": "₹213",
+    "quantity": "21 Packets",
+    "threshold": "11 Packets",
+    "expiry": "10/7/23",
+    "status": "In-stock",
+    "id": 19
+  },
+  {
+    "name": "Bru",
+    "price": "₹313",
+    "quantity": "18 Packets",
+    "threshold": "11 Packets",
+    "expiry": "9/8/23",
+    "status": "Low stock",
+    "id": 20
+  },
+  {
+    "name": "Harpic",
+    "price": "₹657",
+    "quantity": "40 Packets",
+    "threshold": "11 Packets",
+    "expiry": "24/4/23",
+    "status": "Out of stock",
+    "id": 21
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹509",
+    "quantity": "35 Packets",
+    "threshold": "14 Packets",
+    "expiry": "28/12/23",
+    "status": "Out of stock",
+    "id": 22
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹252",
+    "quantity": "50 Packets",
+    "threshold": "8 Packets",
+    "expiry": "25/10/23",
+    "status": "Out of stock",
+    "id": 23
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹475",
+    "quantity": "11 Packets",
+    "threshold": "7 Packets",
+    "expiry": "1/4/23",
+    "status": "Low stock",
+    "id": 24
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹672",
+    "quantity": "20 Packets",
+    "threshold": "10 Packets",
+    "expiry": "26/11/23",
+    "status": "Out of stock",
+    "id": 25
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹344",
+    "quantity": "38 Packets",
+    "threshold": "7 Packets",
+    "expiry": "18/9/23",
+    "status": "In-stock",
+    "id": 26
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹370",
+    "quantity": "19 Packets",
+    "threshold": "10 Packets",
+    "expiry": "5/10/23",
+    "status": "Out of stock",
+    "id": 27
+  },
+  {
+    "name": "Maggi",
+    "price": "₹723",
+    "quantity": "29 Packets",
+    "threshold": "7 Packets",
+    "expiry": "19/7/23",
+    "status": "Low stock",
+    "id": 28
+  },
+  {
+    "name": "Ariel",
+    "price": "₹715",
+    "quantity": "35 Packets",
+    "threshold": "15 Packets",
+    "expiry": "5/10/23",
+    "status": "Low stock",
+    "id": 29
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹777",
+    "quantity": "39 Packets",
+    "threshold": "13 Packets",
+    "expiry": "7/1/23",
+    "status": "In-stock",
+    "id": 30
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹272",
+    "quantity": "27 Packets",
+    "threshold": "13 Packets",
+    "expiry": "13/1/23",
+    "status": "In-stock",
+    "id": 31
+  },
+  {
+    "name": "Bru",
+    "price": "₹666",
+    "quantity": "12 Packets",
+    "threshold": "11 Packets",
+    "expiry": "1/2/23",
+    "status": "Out of stock",
+    "id": 32
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹568",
+    "quantity": "6 Packets",
+    "threshold": "14 Packets",
+    "expiry": "29/8/23",
+    "status": "Low stock",
+    "id": 33
+  },
+  {
+    "name": "Ariel",
+    "price": "₹781",
+    "quantity": "23 Packets",
+    "threshold": "12 Packets",
+    "expiry": "2/3/23",
+    "status": "Out of stock",
+    "id": 34
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹247",
+    "quantity": "15 Packets",
+    "threshold": "11 Packets",
+    "expiry": "5/8/23",
+    "status": "In-stock",
+    "id": 35
+  },
+  {
+    "name": "Maggi",
+    "price": "₹207",
+    "quantity": "36 Packets",
+    "threshold": "13 Packets",
+    "expiry": "18/6/23",
+    "status": "Low stock",
+    "id": 36
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹422",
+    "quantity": "46 Packets",
+    "threshold": "6 Packets",
+    "expiry": "22/5/23",
+    "status": "Low stock",
+    "id": 37
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹220",
+    "quantity": "8 Packets",
+    "threshold": "8 Packets",
+    "expiry": "26/4/23",
+    "status": "In-stock",
+    "id": 38
+  },
+  {
+    "name": "Maggi",
+    "price": "₹666",
+    "quantity": "17 Packets",
+    "threshold": "5 Packets",
+    "expiry": "17/9/23",
+    "status": "In-stock",
+    "id": 39
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹756",
+    "quantity": "13 Packets",
+    "threshold": "11 Packets",
+    "expiry": "28/5/23",
+    "status": "In-stock",
+    "id": 40
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹231",
+    "quantity": "43 Packets",
+    "threshold": "5 Packets",
+    "expiry": "18/7/23",
+    "status": "Low stock",
+    "id": 41
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹283",
+    "quantity": "16 Packets",
+    "threshold": "8 Packets",
+    "expiry": "22/10/23",
+    "status": "In-stock",
+    "id": 42
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹344",
+    "quantity": "7 Packets",
+    "threshold": "11 Packets",
+    "expiry": "28/12/23",
+    "status": "Low stock",
+    "id": 43
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹570",
+    "quantity": "13 Packets",
+    "threshold": "5 Packets",
+    "expiry": "8/5/23",
+    "status": "Out of stock",
+    "id": 44
+  },
+  {
+    "name": "Maggi",
+    "price": "₹775",
+    "quantity": "13 Packets",
+    "threshold": "11 Packets",
+    "expiry": "14/1/23",
+    "status": "Low stock",
+    "id": 45
+  },
+  {
+    "name": "Bru",
+    "price": "₹652",
+    "quantity": "22 Packets",
+    "threshold": "9 Packets",
+    "expiry": "11/3/23",
+    "status": "Low stock",
+    "id": 46
+  },
+  {
+    "name": "Ariel",
+    "price": "₹486",
+    "quantity": "17 Packets",
+    "threshold": "6 Packets",
+    "expiry": "6/8/23",
+    "status": "In-stock",
+    "id": 47
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹289",
+    "quantity": "28 Packets",
+    "threshold": "5 Packets",
+    "expiry": "3/4/23",
+    "status": "In-stock",
+    "id": 48
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹726",
+    "quantity": "39 Packets",
+    "threshold": "7 Packets",
+    "expiry": "30/10/23",
+    "status": "Out of stock",
+    "id": 49
+  },
+  {
+    "name": "Maggi",
+    "price": "₹559",
+    "quantity": "14 Packets",
+    "threshold": "14 Packets",
+    "expiry": "12/5/23",
+    "status": "Out of stock",
+    "id": 50
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹324",
+    "quantity": "24 Packets",
+    "threshold": "13 Packets",
+    "expiry": "12/5/23",
+    "status": "In-stock",
+    "id": 51
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹628",
+    "quantity": "19 Packets",
+    "threshold": "13 Packets",
+    "expiry": "5/9/23",
+    "status": "In-stock",
+    "id": 52
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹415",
+    "quantity": "50 Packets",
+    "threshold": "14 Packets",
+    "expiry": "25/6/23",
+    "status": "Low stock",
+    "id": 53
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹628",
+    "quantity": "17 Packets",
+    "threshold": "5 Packets",
+    "expiry": "31/8/23",
+    "status": "Low stock",
+    "id": 54
+  },
+  {
+    "name": "Harpic",
+    "price": "₹418",
+    "quantity": "35 Packets",
+    "threshold": "14 Packets",
+    "expiry": "20/5/23",
+    "status": "Low stock",
+    "id": 55
+  },
+  {
+    "name": "Bru",
+    "price": "₹618",
+    "quantity": "49 Packets",
+    "threshold": "13 Packets",
+    "expiry": "29/2/23",
+    "status": "Low stock",
+    "id": 56
+  },
+  {
+    "name": "Maggi",
+    "price": "₹683",
+    "quantity": "18 Packets",
+    "threshold": "7 Packets",
+    "expiry": "22/4/23",
+    "status": "Out of stock",
+    "id": 57
+  },
+  {
+    "name": "Maggi",
+    "price": "₹445",
+    "quantity": "7 Packets",
+    "threshold": "14 Packets",
+    "expiry": "23/2/23",
+    "status": "Out of stock",
+    "id": 58
+  },
+  {
+    "name": "Harpic",
+    "price": "₹394",
+    "quantity": "48 Packets",
+    "threshold": "10 Packets",
+    "expiry": "5/5/23",
+    "status": "In-stock",
+    "id": 59
+  },
+  {
+    "name": "Bru",
+    "price": "₹238",
+    "quantity": "5 Packets",
+    "threshold": "12 Packets",
+    "expiry": "17/1/23",
+    "status": "Low stock",
+    "id": 60
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹324",
+    "quantity": "22 Packets",
+    "threshold": "6 Packets",
+    "expiry": "27/9/23",
+    "status": "Low stock",
+    "id": 61
+  },
+  {
+    "name": "Maggi",
+    "price": "₹568",
+    "quantity": "44 Packets",
+    "threshold": "14 Packets",
+    "expiry": "7/1/23",
+    "status": "Low stock",
+    "id": 62
+  },
+  {
+    "name": "Maggi",
+    "price": "₹291",
+    "quantity": "30 Packets",
+    "threshold": "13 Packets",
+    "expiry": "11/7/23",
+    "status": "Out of stock",
+    "id": 63
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹784",
+    "quantity": "24 Packets",
+    "threshold": "14 Packets",
+    "expiry": "5/2/23",
+    "status": "Out of stock",
+    "id": 64
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹791",
+    "quantity": "21 Packets",
+    "threshold": "15 Packets",
+    "expiry": "13/11/23",
+    "status": "In-stock",
+    "id": 65
+  },
+  {
+    "name": "Ariel",
+    "price": "₹604",
+    "quantity": "26 Packets",
+    "threshold": "5 Packets",
+    "expiry": "4/9/23",
+    "status": "Low stock",
+    "id": 66
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹795",
+    "quantity": "44 Packets",
+    "threshold": "5 Packets",
+    "expiry": "16/12/23",
+    "status": "Low stock",
+    "id": 67
+  },
+  {
+    "name": "Maggi",
+    "price": "₹749",
+    "quantity": "5 Packets",
+    "threshold": "11 Packets",
+    "expiry": "30/1/23",
+    "status": "Low stock",
+    "id": 68
+  },
+  {
+    "name": "Ariel",
+    "price": "₹698",
+    "quantity": "10 Packets",
+    "threshold": "5 Packets",
+    "expiry": "14/10/23",
+    "status": "Out of stock",
+    "id": 69
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹771",
+    "quantity": "48 Packets",
+    "threshold": "10 Packets",
+    "expiry": "21/10/23",
+    "status": "In-stock",
+    "id": 70
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹797",
+    "quantity": "25 Packets",
+    "threshold": "13 Packets",
+    "expiry": "2/6/23",
+    "status": "Low stock",
+    "id": 71
+  },
+  {
+    "name": "Horlicks",
+    "price": "₹749",
+    "quantity": "6 Packets",
+    "threshold": "9 Packets",
+    "expiry": "21/10/23",
+    "status": "In-stock",
+    "id": 72
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹346",
+    "quantity": "50 Packets",
+    "threshold": "8 Packets",
+    "expiry": "18/9/23",
+    "status": "In-stock",
+    "id": 73
+  },
+  {
+    "name": "Harpic",
+    "price": "₹401",
+    "quantity": "8 Packets",
+    "threshold": "9 Packets",
+    "expiry": "20/12/23",
+    "status": "Low stock",
+    "id": 74
+  },
+  {
+    "name": "Ariel",
+    "price": "₹336",
+    "quantity": "10 Packets",
+    "threshold": "9 Packets",
+    "expiry": "18/7/23",
+    "status": "In-stock",
+    "id": 75
+  },
+  {
+    "name": "Maggi",
+    "price": "₹500",
+    "quantity": "27 Packets",
+    "threshold": "10 Packets",
+    "expiry": "2/12/23",
+    "status": "Out of stock",
+    "id": 76
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹338",
+    "quantity": "6 Packets",
+    "threshold": "7 Packets",
+    "expiry": "1/3/23",
+    "status": "In-stock",
+    "id": 77
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹478",
+    "quantity": "13 Packets",
+    "threshold": "5 Packets",
+    "expiry": "6/8/23",
+    "status": "Low stock",
+    "id": 78
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹692",
+    "quantity": "49 Packets",
+    "threshold": "13 Packets",
+    "expiry": "9/12/23",
+    "status": "Low stock",
+    "id": 79
+  },
+  {
+    "name": "Harpic",
+    "price": "₹461",
+    "quantity": "41 Packets",
+    "threshold": "7 Packets",
+    "expiry": "21/5/23",
+    "status": "In-stock",
+    "id": 80
+  },
+  {
+    "name": "Harpic",
+    "price": "₹358",
+    "quantity": "29 Packets",
+    "threshold": "10 Packets",
+    "expiry": "25/8/23",
+    "status": "In-stock",
+    "id": 81
+  },
+  {
+    "name": "Maggi",
+    "price": "₹433",
+    "quantity": "48 Packets",
+    "threshold": "15 Packets",
+    "expiry": "27/11/23",
+    "status": "Out of stock",
+    "id": 82
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹237",
+    "quantity": "10 Packets",
+    "threshold": "13 Packets",
+    "expiry": "6/12/23",
+    "status": "Out of stock",
+    "id": 83
+  },
+  {
+    "name": "Ariel",
+    "price": "₹644",
+    "quantity": "34 Packets",
+    "threshold": "15 Packets",
+    "expiry": "7/6/23",
+    "status": "Low stock",
+    "id": 84
+  },
+  {
+    "name": "Bru",
+    "price": "₹744",
+    "quantity": "43 Packets",
+    "threshold": "15 Packets",
+    "expiry": "8/4/23",
+    "status": "Out of stock",
+    "id": 85
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹607",
+    "quantity": "33 Packets",
+    "threshold": "12 Packets",
+    "expiry": "30/4/23",
+    "status": "In-stock",
+    "id": 86
+  },
+  {
+    "name": "Ariel",
+    "price": "₹393",
+    "quantity": "7 Packets",
+    "threshold": "11 Packets",
+    "expiry": "3/4/23",
+    "status": "In-stock",
+    "id": 87
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹693",
+    "quantity": "37 Packets",
+    "threshold": "13 Packets",
+    "expiry": "11/9/23",
+    "status": "Out of stock",
+    "id": 88
+  },
+  {
+    "name": "Red Bull",
+    "price": "₹409",
+    "quantity": "38 Packets",
+    "threshold": "8 Packets",
+    "expiry": "2/7/23",
+    "status": "Low stock",
+    "id": 89
+  },
+  {
+    "name": "Maggi",
+    "price": "₹678",
+    "quantity": "5 Packets",
+    "threshold": "14 Packets",
+    "expiry": "11/9/23",
+    "status": "In-stock",
+    "id": 90
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹318",
+    "quantity": "21 Packets",
+    "threshold": "5 Packets",
+    "expiry": "27/8/23",
+    "status": "In-stock",
+    "id": 91
+  },
+  {
+    "name": "Coca Cola",
+    "price": "₹411",
+    "quantity": "40 Packets",
+    "threshold": "10 Packets",
+    "expiry": "18/9/23",
+    "status": "Out of stock",
+    "id": 92
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹210",
+    "quantity": "13 Packets",
+    "threshold": "13 Packets",
+    "expiry": "2/1/23",
+    "status": "Low stock",
+    "id": 93
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹213",
+    "quantity": "24 Packets",
+    "threshold": "6 Packets",
+    "expiry": "20/2/23",
+    "status": "Out of stock",
+    "id": 94
+  },
+  {
+    "name": "Ariel",
+    "price": "₹777",
+    "quantity": "11 Packets",
+    "threshold": "13 Packets",
+    "expiry": "31/3/23",
+    "status": "Low stock",
+    "id": 95
+  },
+  {
+    "name": "Bru",
+    "price": "₹769",
+    "quantity": "26 Packets",
+    "threshold": "8 Packets",
+    "expiry": "7/12/23",
+    "status": "Out of stock",
+    "id": 96
+  },
+  {
+    "name": "Bourn Vita",
+    "price": "₹334",
+    "quantity": "31 Packets",
+    "threshold": "11 Packets",
+    "expiry": "9/2/23",
+    "status": "In-stock",
+    "id": 97
+  },
+  {
+    "name": "Harpic",
+    "price": "₹592",
+    "quantity": "29 Packets",
+    "threshold": "9 Packets",
+    "expiry": "19/5/23",
+    "status": "In-stock",
+    "id": 98
+  },
+  {
+    "name": "Harpic",
+    "price": "₹397",
+    "quantity": "32 Packets",
+    "threshold": "14 Packets",
+    "expiry": "30/8/23",
+    "status": "In-stock",
+    "id": 99
+  },
+  {
+    "name": "Scotch Brite",
+    "price": "₹519",
+    "quantity": "28 Packets",
+    "threshold": "11 Packets",
+    "expiry": "9/2/23",
+    "status": "Low stock",
+    "id": 100
+  }
+]

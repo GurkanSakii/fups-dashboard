@@ -53,7 +53,7 @@
   }
 }
 .sidebar__header {
-  position: fixed;
+  position: absolute;
   right: 0;
   top: 0;
   display: flex;
@@ -97,7 +97,7 @@
 
   .hamburger {
     display: block;
-    position: fixed;
+    position: absolute;
     top: 0.8em;
     left: 1em;
     z-index: 1000;

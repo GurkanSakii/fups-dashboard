@@ -1,0 +1,90 @@
+.inventory-overview {
+  &--card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.5em 1em;
+    background-color: #fff;
+    border-radius: 5px;
+
+    h4 {
+      margin: 0;
+    }
+
+    &-area {
+      display: flex;
+    }
+  }
+
+  &__item {
+    flex: 1;
+    text-align: center;
+    border-right: 1px solid #f0f1f3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    &:last-child {
+      padding-left: 2em;
+      border: none;
+    }
+
+    &:nth-child(2),
+    &:nth-child(3) {
+      padding: 0 2em;
+    }
+  }
+
+  &__title {
+    text-align: left;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+  }
+
+  &--content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 0.5rem;
+  }
+
+  &--content-area {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin-bottom: 0.5em;
+
+    &:not(:first-child) {
+      align-items: flex-end;
+    }
+
+    p {
+      text-align: left;
+    }
+
+    p,
+    span:last-child {
+      color: #858d9d;
+    }
+  }
+
+  &__value {
+    font-weight: bold;
+    margin-bottom: 0.75em;
+  }
+
+  &__cost {
+    font-weight: bold;
+    margin-bottom: 0.75em;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .inventory-overview--card-area {
+    flex-direction: column;
+  }
+  .inventory-overview__item {
+    padding: 0 !important;
+    border: 0;
+  }
+}

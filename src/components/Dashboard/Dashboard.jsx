@@ -56,6 +56,7 @@ const Dashboard = () => {
       oStatusColor: '#7a98f7',
       dStatusLabel: 'Sales',
       dStatusColor: '#4dbd62',
+      weekly: true,
     },
   ];
 

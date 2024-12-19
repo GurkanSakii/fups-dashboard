@@ -1,11 +1,19 @@
 import styles from './GraphCard.module.scss';
-
+import Calendar from '../../assets/calendar.svg';
 const GraphCard = ({ graph }) => {
   return (
     <>
       {graph.map((grap) => (
         <div key={grap.id} className={styles['order-summary']}>
-          <p className={styles['order-summary__title']}>{grap.title}</p>
+          <div className={styles['order-summary__title']}>
+            {grap.title}
+            {grap.weekly && (
+              <span>
+                <img src={Calendar} alt={Calendar} />
+                <p>Weekly</p>
+              </span>
+            )}
+          </div>
           <div className={styles['order-summary__chart']}>
             <img src={grap.image} alt={grap.image} />
           </div>
