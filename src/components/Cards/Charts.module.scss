@@ -1,15 +1,16 @@
-.order-summary {
+.chart {
   background: #fff;
   border-radius: 5px;
   padding: 1em;
   margin-bottom: 1em;
 
   &__title {
-    height: 2em;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    height: 2em;
     text-align: left;
+    margin-bottom: 2em;
 
     span {
       display: flex;
@@ -24,36 +25,6 @@
       p {
         margin-left: 0.5em;
       }
-    }
-  }
-
-  &__chart {
-    display: flex;
-    justify-content: center;
-    margin: 1.5em 0;
-
-    svg {
-      width: 100%;
-      max-width: 400px;
-      height: 200px;
-    }
-  }
-
-  &__legend {
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-
-    &-item {
-      display: flex;
-      align-items: center;
-    }
-
-    &-color {
-      width: 1em;
-      height: 1em;
-      border-radius: 50%;
-      margin-right: 0.5em;
     }
   }
 }
