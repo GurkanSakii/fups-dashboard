@@ -8,7 +8,7 @@ const SummaryCard = ({ summary, title }) => {
         {summary.map((sum) => (
           <div key={sum.id} className={styles['card__right__overview__item']}>
             <div>
-              <img src={sum.image} alt="Sales" />
+              <sum.icon />
             </div>
             <div className={styles['card__right__overview__template']}>
               <p className={styles['card__right__overview__value']}>₹ {sum.quantity}</p>

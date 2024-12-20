@@ -1,11 +1,11 @@
 import { useEffect } from 'react';
 import { Route, Routes, useNavigate, useLocation } from 'react-router-dom';
-import Login from './components/Login/Login';
-import Sidebar from './components/Sidebar/Sidebar';
-import NotFound from './components/NotFound/NotFound';
-import Dashboard from './components/Dashboard/Dashboard';
-import Inventory from './components/Inventory/Inventory';
-import ProductDetail from './components/ProductDetail/ProductDetail';
+import Login from './pages/login-page';
+import Sidebar from './components/Sidebar';
+import NotFound from './pages/not-found-page';
+import Dashboard from './pages/dashboard-page';
+import Inventory from './pages/inventory-page';
+import ProductDetail from './pages/product-detail-page';
 
 const App = () => {
   const navigate = useNavigate();

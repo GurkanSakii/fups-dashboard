@@ -9,10 +9,10 @@ const TopSellingStock = ({ sellingstock }) => {
       </div>
       <div className={styles['top-selling-stock__table']}>
         <div className={styles['top-selling-stock__table-header']}>
-          <div>Name</div>
-          <div>Sold Quantity</div>
-          <div>Remaining Quantity</div>
-          <div>Price</div>
+          <span>Name</span>
+          <span>Sold Quantity</span>
+          <span>Remaining Quantity</span>
+          <span>Price</span>
         </div>
         {sellingstock.map((stock) => (
           <div key={stock.id} className={styles['top-selling-stock__table-row']}>

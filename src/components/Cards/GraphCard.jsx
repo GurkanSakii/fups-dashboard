@@ -1,5 +1,6 @@
+import CalendarIcon from '../../assets/calendar-icon';
 import styles from './GraphCard.module.scss';
-import Calendar from '../../assets/calendar.svg';
+
 const GraphCard = ({ graph }) => {
   return (
     <>
@@ -9,13 +10,13 @@ const GraphCard = ({ graph }) => {
             {grap.title}
             {grap.weekly && (
               <span>
-                <img src={Calendar} alt={Calendar} />
+                <CalendarIcon />
                 <p>Weekly</p>
               </span>
             )}
           </div>
           <div className={styles['order-summary__chart']}>
-            <img src={grap.image} alt={grap.image} />
+            <grap.icon />
           </div>
           <div className={styles['order-summary__legend']}>
             <div className={styles['order-summary__legend-item']}>

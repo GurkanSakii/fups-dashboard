@@ -2,7 +2,7 @@ import styles from './OverallInventoryCard.module.scss';
 const OverallInventoryCard = ({ inventory }) => {
   return (
     <div className={styles['inventory-overview--card']}>
-      <h4> Overall Inventory</h4>
+      <span>Overall Inventory</span>
       <div className={styles['inventory-overview--card-area']}>
         {inventory.map((inv, index) => (
           <div key={index} className={styles['inventory-overview__item']}>

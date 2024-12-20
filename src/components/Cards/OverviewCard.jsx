@@ -8,7 +8,7 @@ const OverviewCard = ({ overview, title }) => {
         {overview.map((over) => (
           <div key={over.id} className={styles['card__left__overview__item']}>
             <div>
-              <img src={over.image} alt={over.image} />
+              <over.icon />
             </div>
             <div className={styles['card__left__overview--left']}>
               <p className={styles['card__left__overview--value']}>₹ {over.quantity}</p>

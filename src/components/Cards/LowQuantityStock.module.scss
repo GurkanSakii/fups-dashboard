@@ -1,5 +1,5 @@
 .lowQuantity {
-  padding: 1rem;
+  padding: 1em;
   margin-bottom: 1em;
   border-radius: 8px;
   background-color: #fff;
@@ -37,11 +37,11 @@
     }
   }
 
-  &__image {
+  & svg {
     width: 60px;
     height: 70px;
     object-fit: contain;
-    margin-right: 1rem;
+    margin-right: 1em;
   }
 
   &__details {
@@ -53,11 +53,11 @@
 
   &__name {
     font-weight: bold;
-    margin: 0 0 0.25rem;
+    margin: 0 0 0.25em;
   }
 
   &__quantity {
-    font-size: 0.9rem;
+    font-size: 0.9em;
     color: #667085;
     margin: 0;
     white-space: nowrap;
@@ -68,9 +68,9 @@
   &__badge {
     background-color: #feeceb;
     color: #aa3028;
-    padding: 0.3rem 0.6rem;
+    padding: 0.3rem 0.6em;
     border-radius: 12px;
-    font-size: 0.8rem;
+    font-size: 0.8em;
     font-weight: bold;
   }
 }

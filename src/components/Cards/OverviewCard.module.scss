@@ -1,4 +1,8 @@
 .card__left__overview {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
   padding: 1em;
   box-sizing: border-box;
   background-color: #fff;
@@ -13,9 +17,10 @@
   &__items {
     display: flex;
     justify-content: space-between;
-    padding-top: 2em;
+    padding-bottom: 0.75em;
     overflow-x: auto;
     overflow-y: hidden;
+    width: 100%;
   }
 
   &__item {
@@ -36,16 +41,17 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 0.5em;
+    margin-top: 0.75em;
   }
 
   &--value {
-    font-weight: bold;
+    font-weight: 600;
   }
 }
 
 @media screen and (max-width: 1024px) {
   .card__left__overview--left {
     flex-direction: column;
+    margin-top: 0;
   }
 }
